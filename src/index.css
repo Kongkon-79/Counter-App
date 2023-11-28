@@ -1,0 +1,50 @@
+/* body{
+    background-color: green;
+    color: #fff;
+} */
+button{
+    padding: 10px 20px;
+    border: none;
+    margin-right: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.counter{
+    background-color:#ddd ;
+    padding: 20px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 10px 20px #000;
+}
+.heading1{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+.heading{
+    font-size: 3rem;
+}
+.btn1{
+    color: #fff;
+    background-color: green;
+
+}
+
+.btn2{
+    color: #fff;
+    background-color: green;
+}
+.btn3{
+    color: #fff;
+    background-color: orangered;
+}
+button:hover{
+    cursor: pointer;
+}
+:disabled{
+    background-color: red;
+}
